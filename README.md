@@ -1,4 +1,4 @@
-# incredible3d
+# Incredible3d
 A curated list of awesome 3D rendering papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 
@@ -10,6 +10,11 @@ A curated list of awesome 3D rendering papers, inspired by [awesome-NeRF](https:
 - [NeRFPlayer: A Streamable Dynamic Scene Representation with Decomposed Neural Radiance Fields](https://lsongx.github.io/projects/nerfplayer.html), Liangchen Song, et al., IEEE Transactions on Visualization and Computer Graphics, 2023
 </details>
 
+<details open>
+<summary>Camera Correction</summary>
+
+- [Deep Bundle Adjusting Generalizable Neural Radiance Fields](https://aibluefisher.github.io/dbarf/), Chen Yu and Gim Hee Lee, CVPR 2023
+</details>
 
 <details open>
 <summary>Faster Inference</summary>
